@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RaoVat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Login Activity-->
+    <string name="phone_number_hint">Số Điện Thoại</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Menu-->
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <!-- common color-->
+    <color name="commom_white_color">#fff</color>
+    <color name="commom_black_color">#000</color>
+
+    <!-- tranparent color-->
+    <color name="tranparnt_color_lv1">#11000000</color>
+    <color name="tranparnt_color_lv2">#22000000</color>
+
+    <!-- actionbar color -->
+    <color name="bg_actionbar_color">#009688</color>
+
+</resources>
